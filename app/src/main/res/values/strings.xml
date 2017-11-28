@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EditTextEjer15-1</string>
+
+    <string-array name="comunidades">
+        <item>Principado de Asturias</item>
+        <item>Galicia</item>
+        <item>Cantabria</item>
+        <item>Pais Vasco</item>
+        <item>Comunidad Foral Navarra</item>
+        <item>Cataluña</item>
+        <item>Castilla y León</item>
+        <item>Andalucía</item>
+        <item>Aragón</item>
+    </string-array>
+</resources>
